@@ -15,6 +15,15 @@ public class Persona {
     @Setter
     @Getter
     private int puntos;
+    @Setter
+    @Getter
+    private int puntosExtraPorRonda;
+    @Setter
+    @Getter
+    private int PuntosExtraPorFase;
+    @Setter
+    @Getter
+    private int aciertos;
 
     public Persona() {
         this.predicciones = new ArrayList<>();

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e649fde-cc05-4eb0-ba0e-e2917ca8a04c" name="Changes" comment="" />
+    <list default="true" id="8e649fde-cc05-4eb0-ba0e-e2917ca8a04c" name="Changes" comment="a">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Objetos/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objetos/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProgramaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProgramaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Programa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Programa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ProgramaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ProgramaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/classpath.index" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +30,9 @@
         <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/Main.java" root0="SKIP_INSPECTION" />
@@ -40,11 +54,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/dario/Documentos/TrabajoIntegrador",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,7 +73,7 @@
   <component name="RunManager">
     <configuration name="ProgramaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgramaTest" />
-      <module name="untitled" />
+      <module name="TrabajoIntegrador" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,6 +93,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680052142524</updated>
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1682267502429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682267502429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
